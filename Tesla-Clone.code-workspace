@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Tesla-Clone"
+		},
+		{
+			"path": "../Plural sight clone"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Qr scanner"
+	}
+}
